@@ -14,3 +14,6 @@ Currently the script cannot autodetect the executable's location, so the tempora
 sudo chmod +x test.sh
 ./test.sh
 ```
+9. Once the patch program is finished, copy the "v2rp.exe" file into the original location of "v2r.exe"
+10. Delete "v2r.exe" and rename "v2rp.exe" to "v2r.exe"
+11. Launch the game and try it out!
